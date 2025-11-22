@@ -3,12 +3,18 @@ import { generateMetadata } from "@/lib/farcaster-embed";
 
 export { generateMetadata };
 
+import { DrawingCanvas } from "@/components/ui/drawing-canvas";
+import { Toolbar } from "@/components/ui/toolbar";
+import { Confetti } from "@/components/ui/confetti";
+
 export default function Home() {
-  // NEVER write anything here, only use this page to import components
   return (
-    <main className="flex flex-col gap-3 place-items-center place-content-center px-4 grow">
-      <span className="text-2xl">{title}</span>
-      <span className="text-muted-foreground">{description}</span>
+    <main className="flex flex-col h-screen">
+      <div className="flex-1 flex items-center justify-center bg-gray-50">
+        <DrawingCanvas />
+      </div>
+      <Toolbar />
+      <Confetti />
     </main>
   );
 }

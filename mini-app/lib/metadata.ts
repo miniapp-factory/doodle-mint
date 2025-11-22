@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Doodle Mint";
+export const description = "Create and mint pixel-perfect doodles on the Base network.";
 export const url = process.env.NEXT_PUBLIC_URL;
