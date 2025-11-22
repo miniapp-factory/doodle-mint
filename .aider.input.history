@@ -1,0 +1,60 @@
+
+# 2025-11-22 03:29:32.243678
++Code the following app
++```
++Goal: Create a fully functional, mobile-responsive drawing application deployed on the Base network. The app allows users to draw pixel-perfect doodles and mint them as NFTs to their connected wallet.
++
++Theme: "Base Industrial" — Use a clean white/gray background with "Blue" for primary actions and "Neon" accents for the drawing tools.
++
++Layout:
++
++Header: Title "Doodle Mint" and a button to "Connect Wallet" (top right).
++
++Main: A large, cantered drawing canvas with a slight shadow and rounded corners.
++
++Toolbar (Sticky Bottom): A floating dock containing:
++
++Size Slider (1px to 50px).
++Opacity Slider (1% to 100%).
++Spray Flow Slider (5% to 150%, only appears when selecting Spray tool.)
++
++Tool Selector (Pencil, Brush, Spray, Eraser)
++
++Colour Swatches (rainbow, red, orange, yellow, green, blue, indigo & violet).
++
++Action Buttons: "Undo", "Clear Canvas", and a large "MINT DOODLE" button at bottom.
++
++Show a "Success" rainbow confetti animation when the minting transaction is confirmed.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 03:29:32.244304
++Code the following app
++```
++Goal: Create a fully functional, mobile-responsive drawing application deployed on the Base network. The app allows users to draw pixel-perfect doodles and mint them as NFTs to their connected wallet.
++
++Theme: "Base Industrial" — Use a clean white/gray background with "Blue" for primary actions and "Neon" accents for the drawing tools.
++
++Layout:
++
++Header: Title "Doodle Mint" and a button to "Connect Wallet" (top right).
++
++Main: A large, cantered drawing canvas with a slight shadow and rounded corners.
++
++Toolbar (Sticky Bottom): A floating dock containing:
++
++Size Slider (1px to 50px).
++Opacity Slider (1% to 100%).
++Spray Flow Slider (5% to 150%, only appears when selecting Spray tool.)
++
++Tool Selector (Pencil, Brush, Spray, Eraser)
++
++Colour Swatches (rainbow, red, orange, yellow, green, blue, indigo & violet).
++
++Action Buttons: "Undo", "Clear Canvas", and a large "MINT DOODLE" button at bottom.
++
++Show a "Success" rainbow confetti animation when the minting transaction is confirmed.
++```
++
++Generate an app logo and update the app metadata title and description.
